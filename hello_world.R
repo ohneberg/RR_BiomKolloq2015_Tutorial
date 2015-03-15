@@ -6,3 +6,4 @@ plot(1-x, main="second plot")
 
 ### some more code
 print(x)
+y <- rep(5,2)
